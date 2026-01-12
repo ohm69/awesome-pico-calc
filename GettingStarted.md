@@ -1,8 +1,12 @@
 # Getting Started with PicoCalc 
 Welcome to the PicoCalc Getting Started guide! This document will help you set up your PicoCalc device.
 
+---
+
 ## What is PicoCalc?
 PicoCalc is a versatile handheld device based on the Raspberry Pi Pico and is designed for various applications, including programming, gaming, and media playback. It features a powerful microcontroller and supports multiple programming languages and SDKs. Read more about it here: https://www.clockworkpi.com/picocalc
+
+---
 
 ## Updating The STM32
 This is critical to ensure your PicoCalc runs smoothly. Follow these steps to update the STM32 firmware.
@@ -21,15 +25,14 @@ Here's a video guide for visual assistance: [YouTube Video](https://www.youtube.
 9. Click the `Open file` tab and select `PicoCalc_BIOS_v1.4.bin` (Download from https://github.com/clockworkpi/PicoCalc/tree/master/Bin)
 10. Press the light blue `Download` button
 11. Once finished, click `Disconnect` then unplug the `USB-C` cable from your PicoCalc
-12. Turn off switch 1 (SW107)
+12. Turn off switch 1 (SW701)
+
+---
 
 ## Flashing New Firmware
 Custom firmware can enhance the functionality of your PicoCalc. You can flash new firmware to add features or update existing ones.
 
 Here's a video guide for visual assistance: [YouTube Video](https://www.youtube.com/watch?v=O-EXSRHOsfQ&pp=ygUIamJsYW5rZWQ%3D).
-Sure! Here's the clean version:
-
----
 
 ### Steps to Flash New Firmware
 

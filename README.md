@@ -41,7 +41,6 @@ A curated collection of Awesome resources for the PicoCalc device. If you're new
 *Open source projects and custom firmware*
 - [Picoware](https://github.com/jblanked/Picoware) - Open source custom firmware (WiFi, Social Media, Bluetooth, Games, and more)
 - [PicoCalc Trixie](https://github.com/ironat/picocalc_trixie) - Raspberry Pi Zero 2W setup (ZeroCalc)
-- [FORTH](https://github.com/tabemann/zeptoforth) - ZeptoForth
 - [LuckFox Lyra](https://github.com/nekocharm/picocalc-luckfox-lyra) - Linux micro-development environment
 - [picocalc-text-starter](https://github.com/BlairLeduc/picocalc-text-starter) - Text-based starter project with many drivers
 - [pkklib](https://github.com/redbug26/pkklib) - lightweight C library for development

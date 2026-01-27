@@ -48,4 +48,5 @@ A curated collection of Awesome resources for the PicoCalc device. If you're new
 - [PicoCalc](https://github.com/LofiFren/PicoCalc) - Collection of MicroPython scripts
 - [UF2Loader](https://github.com/pelrun/uf2loader) - Bootloader that loads firmware from PicoCalc's SD card Slot
 - [WezTerm](https://github.com/wezterm/picocalc-wezterm) - SSH client and terminal emulator
+- [Coyote OS](https://github.com/laingcc/Picocalc-Coyote-OS) - Calculator firmware (Text editing, Expression parsing, Function graphing)
 
